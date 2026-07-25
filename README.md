@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clase 1 — Repaso OOP + Interfaces (primer contacto)
 
 Sábado 11 de julio de 2026.
@@ -45,3 +46,7 @@ Tomar una clase del proyecto Swing de Prog 1 y agregar al menos **dos
 interfaces** que describan comportamientos que esa clase ya tiene (por
 ejemplo, si tenía `mostrar()`, crear una interface `Displayable` con ese
 método e implementarla). Subir al repositorio Git.
+=======
+# Interfaces---An-lisis-y-correcci-n-de-proyecto-Java
+Proyecto de interfaces con solución a los TODO
+>>>>>>> 0843eb705600993a6250d74adb3329b4d6afbc76
